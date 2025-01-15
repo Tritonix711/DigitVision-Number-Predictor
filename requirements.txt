@@ -1,0 +1,7 @@
+tensorflow
+numpy
+scikit-learn
+gzip
+struct
+pillow
+matplotlib
