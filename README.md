@@ -1,3 +1,4 @@
+![Screenshot 2025-01-15 102534](https://github.com/user-attachments/assets/a03fd1e6-d8ae-4840-8499-a15180e0517c)
 
 # DigitVision - Number Predictor
 
